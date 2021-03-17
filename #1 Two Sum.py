@@ -46,7 +46,7 @@ a= Solution()
 print(a.twoSum([4,7,8,9] , 13))
 
 
-'''
+'''"""
 dict content
 key =  target- num
 value = index of num
